@@ -1,4 +1,5 @@
 # QuailCalculator
+beta<br><br>
 Calculator to determine dates for continuous quail meat raising cycle.<br><br>
 ![image](https://github.com/inwtx/QuailCalculator/assets/32821617/355761ba-e230-4428-85a7-d8cf103af820)
 <br><br>
