@@ -1,7 +1,7 @@
-# QuailCalculator v2.02
+# QuailCalculator v2.03
 beta<br><br>
 Calculator to determine dates for continuous quail meat raising cycle.<br><br>
-![image](https://github.com/inwtx/QuailCalculator/assets/32821617/355761ba-e230-4428-85a7-d8cf103af820)
+![image](https://github.com/inwtx/QuailCalculator/assets/32821617/2979b2a7-e5eb-493d-b38a-8786efe5ead4)
 <br><br>
 This calculator sets up the dates to run a continuous quail meat production schedule.<br>
 The schedule is dependent upon the length of the brooder period, from 2, 3, or 4 weeks.<br>
